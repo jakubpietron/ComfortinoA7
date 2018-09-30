@@ -1,11 +1,7 @@
 # ComfortinoA7
-
-**You can order your Comfortino modules at www.comfortino.eu**  
-  
-  
+ 
 **A7 GPS + GSM Arduino Libraries.  
-For use with official Comfortino modules only.  
-Do not redistribute, property of JMLABS Sp. z o.o.**  
+Intended for use with Comfortino modules.  
   
 // SIMPLE EXAMPLE LIBRARY FOR COMFORTINO A7 GSM+GPS MODULE  
 // USE SERIAL COMMANDS TO CONTROL:  
