@@ -1,7 +1,5 @@
 /*
   Comfortinoa7.cpp - Library for A7 module for Comfortino 
-  Created by JMLABS Sp. z o.o., March 3, 2018.
-  Property of JMLABS Sp. z o.o.
 */
 
 #include "Arduino.h"
