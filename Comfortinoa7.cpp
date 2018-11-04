@@ -386,9 +386,6 @@ delay(500);
 A7incominghttp=false;
 }
 
-
-// NOT WORKING = WHY? 
-
 void Comfortinoa7::postHTTP(String content)
 {
 A7incominghttp=true;
@@ -466,7 +463,7 @@ int Comfortinoa7::cA7sendSMS(String parameter)
 
 int Comfortinoa7::cA7logdata(String parameter)
 {
-  if (A7currentmode==6) {postHTTP(parameter); return 1;} 
+  if (A7currentmode=>5) {postHTTP(parameter); return 1;} 
   else return 0;
   }
 
